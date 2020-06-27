@@ -19,3 +19,5 @@ Table of solved problems:
 | Medium | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0034_find_first_and_last_position_of_element_in_sorted_array.py)
 | Hard | 42 | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py)|
 | Easy | 70 | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0070_climbing_stairs.py)|
+| Easy | 206 | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)|
+| Medium | 707 | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)|
