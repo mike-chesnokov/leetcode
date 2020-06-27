@@ -8,9 +8,12 @@ Table of solved problems:
  
 | Level  | Number | Name |
 | -------| ------ | ------------ |
+| Easy | 1 | [Two Sum](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0001_two_sum.py)|
 | Medium | 2 | [Add two numbers](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0002_add_two_numbers.py)|
 | Medium | 3 | [Longest Substring Without Repeating Characters](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0003_longest_substring_without_repeating_characters.py)|
 | Hard | 4 | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0004_median_of_two_sorted_arrays.py)
+| Easy | 7 | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0007_reverse_integer.py)
+| Easy | 9 | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0009_palindrome_number.py)
 | Medium | 15 | [3Sum](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0015_3sum.py)|
 | Medium | 19 | [Remove Nth Node From End of List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0019_remove_nth_node_from_end_of_list.py)|
 | Hard | 23 | [Merge k Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0023_merge_k_sorted_lists.py)|
