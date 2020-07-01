@@ -12,6 +12,7 @@ Table of solved problems:
 | Medium | 2 | [Add two numbers](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0002_add_two_numbers.py)|
 | Medium | 3 | [Longest Substring Without Repeating Characters](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0003_longest_substring_without_repeating_characters.py)|
 | Hard | 4 | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0004_median_of_two_sorted_arrays.py)
+| Medium | 5 | []()|
 | Easy | 7 | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0007_reverse_integer.py)
 | Easy | 9 | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0009_palindrome_number.py)
 | Easy | 14 | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0014_longest_common_prefix.py)|
@@ -29,6 +30,7 @@ Table of solved problems:
 | Medium | 80 | [Remove Duplicates from Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0080_remove_duplicates_from_sorted_array_ii.py)|
 | Medium | 81 | [Search in Rotated Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0081_search_in_rotated_sorted_array_ii.py)|
 | Medium | 92 | [Reverse Linked List II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0092_reverse_linked_list_ii.py)|
+| Medium | 98 | []()|
 | Easy | 141 | [Linked List Cycle](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0141_linked_list_cycle.py)|
 | Medium | 142 | [Linked List Cycle II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0142_linked_list_cycle_ii.py)|
 | Easy | 206 | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)|
