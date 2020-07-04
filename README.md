@@ -22,8 +22,8 @@ Table of solved problems:
 | Easy | 21 | [Merge Two Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0021_merge_two_sorted_lists.py)|
 | Hard | 23 | [Merge k Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0023_merge_k_sorted_lists.py)|
 | Medium | 24 | [Swap Nodes in Pairs](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0024_swap_nodes_in_pairs.py)|
-| Easy | 26 | []()|
-| Easy | 27 | []()|
+| Easy | 26 | [Remove Duplicates from Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0026_remove_duplicates_from_sorted_array.py)|
+| Easy | 27 | [Remove Element](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0027_remove_element.py)|
 | Medium | 33 | [Search in Rotated Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0033_search_in_rotated_sorted_array.py)|
 | Medium | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0034_find_first_and_last_position_of_element_in_sorted_array.py)
 | Hard | 42 | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py)|
@@ -36,6 +36,6 @@ Table of solved problems:
 | Easy | 141 | [Linked List Cycle](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0141_linked_list_cycle.py)|
 | Medium | 142 | [Linked List Cycle II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0142_linked_list_cycle_ii.py)|
 | Easy | 206 | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)|
-| Easy | 700 | []()|
+| Easy | 700 | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0700_search_in_a_binary_search_tree.py)|
 | Medium | 707 | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)|
-| Easy | 783 | []()|
+| Easy | 783 | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0783_minimum_distance_between_BST_nodes.py)|
