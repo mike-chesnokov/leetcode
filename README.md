@@ -59,4 +59,5 @@ Tables of solved problems by topics:
 | Easy | 14 | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0014_longest_common_prefix.py)|
 | Easy | 20 | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0020_valid_parentheses.py)|
 | Hard | 42 | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py)|
+| Medium | 50 | [Longest Palindromic Substring]()|
 | Easy | 70 | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0070_climbing_stairs.py)|
