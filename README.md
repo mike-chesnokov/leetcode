@@ -22,6 +22,8 @@ Table of solved problems:
 | Easy | 21 | [Merge Two Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0021_merge_two_sorted_lists.py)|
 | Hard | 23 | [Merge k Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0023_merge_k_sorted_lists.py)|
 | Medium | 24 | [Swap Nodes in Pairs](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0024_swap_nodes_in_pairs.py)|
+| Easy | 26 | []()|
+| Easy | 27 | []()|
 | Medium | 33 | [Search in Rotated Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0033_search_in_rotated_sorted_array.py)|
 | Medium | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0034_find_first_and_last_position_of_element_in_sorted_array.py)
 | Hard | 42 | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py)|
@@ -34,4 +36,6 @@ Table of solved problems:
 | Easy | 141 | [Linked List Cycle](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0141_linked_list_cycle.py)|
 | Medium | 142 | [Linked List Cycle II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0142_linked_list_cycle_ii.py)|
 | Easy | 206 | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)|
+| Easy | 700 | []()|
 | Medium | 707 | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)|
+| Easy | 783 | []()|
