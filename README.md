@@ -26,7 +26,7 @@ Tables of solved problems by topics:
 | Medium | 80 | [Remove Duplicates from Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0080_remove_duplicates_from_sorted_array_ii.py)|
 | Medium | 81 | [Search in Rotated Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0081_search_in_rotated_sorted_array_ii.py)|
 | Easy | 167 | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0167_two_sum_ii_input_array_is_sorted.py)|
-| Easy | 704 | []()|
+| Easy | 704 | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0704_binary_search.py)|
 
 ## String
 
