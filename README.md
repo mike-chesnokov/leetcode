@@ -56,11 +56,12 @@ Tables of solved problems by topics:
 | Easy | 206 | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)|
 | Medium | 707 | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)|
 
-## Binary Search Tree (BST)
+## Binary Tree
 
 | Level  | Number | Name |
 | -------| ------ | ------------ |
 | Medium | 98 | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0098_validate_binary_search_tree.py)|
+| Medium | 98 | []()|
 | Easy | 700 | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0700_search_in_a_binary_search_tree.py)|
 | Easy | 783 | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0783_minimum_distance_between_BST_nodes.py)|
 
