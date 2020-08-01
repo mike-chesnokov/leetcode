@@ -75,4 +75,4 @@ Tables of solved problems by topics:
 | Hard | 42 | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py)|
 | Medium | 50 | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0050_pow_x_n.py)|
 | Easy | 70 | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0070_climbing_stairs.py)|
-| Medium | 77 | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/)|
+| Medium | 77 | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0077_combinations.py)|
