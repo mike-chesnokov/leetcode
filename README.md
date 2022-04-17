@@ -8,25 +8,28 @@ Tables of solved problems by topics:
 - Array
 - String
 - Linked list
-- Binary Search Tree (BST)
+- Trees and Binary Search Tree (BST)
 - Other
  
 ## Array
 
-| Level  | Number | Name |
-| -------| ------ | ------------ |
-| Easy | 1 | [Two Sum](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0001_two_sum.py)|
-| Hard | 4 | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0004_median_of_two_sorted_arrays.py)
-| Medium | 15 | [3Sum](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0015_3sum.py)|
-| Easy | 26 | [Remove Duplicates from Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0026_remove_duplicates_from_sorted_array.py)|
-| Easy | 27 | [Remove Element](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0027_remove_element.py)|
-| Medium | 33 | [Search in Rotated Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0033_search_in_rotated_sorted_array.py)|
-| Medium | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0034_find_first_and_last_position_of_element_in_sorted_array.py)|
-| Easy | 35 | [Search Insert Position](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0035_search_insert_position.py)|
-| Medium | 80 | [Remove Duplicates from Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0080_remove_duplicates_from_sorted_array_ii.py)|
-| Medium | 81 | [Search in Rotated Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0081_search_in_rotated_sorted_array_ii.py)|
-| Easy | 167 | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0167_two_sum_ii_input_array_is_sorted.py)|
-| Easy | 704 | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0704_binary_search.py)|
+| Level  | Number | Name                                                                                                                                                                                              |
+|--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Easy   | 1      | [Two Sum](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0001_two_sum.py)                                                                                                   |
+| Hard   | 4      | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0004_median_of_two_sorted_arrays.py)                                                           |
+| Medium | 15     | [3Sum](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0015_3sum.py)                                                                                                       |
+| Easy   | 26     | [Remove Duplicates from Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0026_remove_duplicates_from_sorted_array.py)                                           |
+| Easy   | 27     | [Remove Element](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0027_remove_element.py)                                                                                     |
+| Medium | 33     | [Search in Rotated Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0033_search_in_rotated_sorted_array.py)                                                   |
+| Medium | 34     | [Find First and Last Position of Element in Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0034_find_first_and_last_position_of_element_in_sorted_array.py) |
+| Easy   | 35     | [Search Insert Position](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0035_search_insert_position.py)                                                                     |
+| Medium | 48     | [Rotate Image](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0048_rotate_image.py)                                                                                       |
+| Medium | 78     | [Subsets](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0078_subsets.py)                                                                                                 |
+| Medium | 80     | [Remove Duplicates from Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0080_remove_duplicates_from_sorted_array_ii.py)                                   |
+| Medium | 81     | [Search in Rotated Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0081_search_in_rotated_sorted_array_ii.py)                                             |
+| Easy   | 136    | [Single Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0136_single_number.py)                                                                                       |
+| Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0167_two_sum_ii_input_array_is_sorted.py)                                               |
+| Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0704_binary_search.py)                                                                                       |
 
 ## String
 
@@ -56,14 +59,17 @@ Tables of solved problems by topics:
 | Easy | 206 | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)|
 | Medium | 707 | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)|
 
-## Binary Tree
 
-| Level  | Number | Name |
-| -------| ------ | ------------ |
-| Medium | 98 | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0098_validate_binary_search_tree.py)|
-| Medium | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py)|
-| Easy | 700 | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0700_search_in_a_binary_search_tree.py)|
-| Easy | 783 | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0783_minimum_distance_between_BST_nodes.py)|
+## Trees and BST
+
+| Level  | Number | Name                                                                                                                                                                                                    |
+| -------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Medium | 98     | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0098_validate_binary_search_tree.py)                                                               |
+| Easy | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0100_same_tree.py)                                                                                                     |
+| Medium | 106    | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py) |
+| Medium | 654    | [Maximum Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0654_max_binary_tree.py)                                                                                   |
+| Easy | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0700_search_in_a_binary_search_tree.py)                                                           |
+| Easy | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0783_minimum_distance_between_BST_nodes.py)                                                   |
 
 
 ## Other

@@ -22,6 +22,8 @@ Example 4:
 Input: [1,3,5,6], 0
 Output: 0
 """
+from typing import List
+
 
 class Solution(object):
     def searchInsert(self, nums, target):
@@ -41,3 +43,36 @@ class Solution(object):
                 right = mid - 1
 
         return left
+
+    def searchInsert2(self, nums: List[int], target: int) -> int:
+        nums_len = len(nums)
+        left_ind = 0
+        right_ind = nums_len - 1
+
+        if target > nums[-1]:
+            return nums_len
+        if target < nums[0]:
+            return 0
+
+        while left_ind < right_ind:
+
+            mid = left_ind + (right_ind - left_ind) // 2
+
+            print('ind', left_ind, mid, right_ind)
+            print('arr', nums[left_ind], nums[mid], nums[right_ind])
+
+            if target < nums[mid]:
+                right_ind = mid
+            if target > nums[mid]:
+                left_ind = mid
+            if target == nums[mid]:
+                return mid
+            if target == nums[left_ind]:
+                return left_ind
+            if target == nums[right_ind]:
+                return right_ind
+            if right_ind == left_ind + 1 \
+                    and nums[left_ind] < target < nums[right_ind]:
+                return right_ind
+
+        return right_ind
