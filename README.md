@@ -82,5 +82,6 @@ Tables of solved problems by topics:
 | Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0050_pow_x_n.py)                     |
 | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0070_climbing_stairs.py)         |
 | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0077_combinations.py)             |
+| Medium | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0119_pascal_triangle_II.py) |
 | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0279_perfect_squares.py)       |
 | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0509_fibonacci_number.py)       | 
