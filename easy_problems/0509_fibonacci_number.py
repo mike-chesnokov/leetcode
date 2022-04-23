@@ -22,10 +22,22 @@ from functools import lru_cache
 
 class Solution:
     @lru_cache(maxsize=None)
-    def fib(self, n: int) -> int:
-        """Recursion"""
-        if n == 0:
-            return 0
-        if n == 1:
-            return 1
+    def fib2(self, n: int) -> int:
+        """Using python built-in cache decorator"""
+        if n < 2:
+            return n
         return self.fib(n - 1) + self.fib(n - 2)
+
+    cache = {}
+
+    def fib(self, n: int) -> int:
+        """Using manual cache"""
+        if n in self.cache:
+            return self.cache[n]
+        if n < 2:
+            return n
+        res = self.fib(n - 1) + self.fib(n - 2)
+
+        self.cache[n] = res
+
+        return res
