@@ -63,13 +63,14 @@ Tables of solved problems by topics:
 ## Trees and BST
 
 | Level  | Number | Name                                                                                                                                                                                                    |
-| -------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Medium | 98     | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0098_validate_binary_search_tree.py)                                                               |
-| Easy | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0100_same_tree.py)                                                                                                     |
+| Easy   | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0100_same_tree.py)                                                                                                     |
 | Medium | 106    | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py) |
+| Easy   | 104    | [Maximum Depth Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0104_max_depth_bin_tree.py)                                                                            |
 | Medium | 654    | [Maximum Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0654_max_binary_tree.py)                                                                                   |
-| Easy | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0700_search_in_a_binary_search_tree.py)                                                           |
-| Easy | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0783_minimum_distance_between_BST_nodes.py)                                                   |
+| Easy   | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0700_search_in_a_binary_search_tree.py)                                                           |
+| Easy   | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0783_minimum_distance_between_BST_nodes.py)                                                   |
 
 
 ## Other
