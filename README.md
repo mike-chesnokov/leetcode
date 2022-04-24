@@ -33,37 +33,38 @@ Tables of solved problems by topics:
 
 ## String
 
-| Level  | Number | Name |
-| -------| ------ | ------------ |
-| Medium | 3 | [Longest Substring Without Repeating Characters](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0003_longest_substring_without_repeating_characters.py)|
-| Medium | 5 | [Longest Palindromic Substring](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0005_longest_palindromic_substring.py)|
-| Easy | 14 | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0014_longest_common_prefix.py)|
-| Easy | 20 | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0020_valid_parentheses.py)|
-| Easy | 28 | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0028_implement_strstr.py)|
-| Easy | 38 | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0038_count_and_say.py)|
+| Level  | Number | Name                                                                                                                                                                            |
+|--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Medium | 3      | [Longest Substring Without Repeating Characters](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0003_longest_substring_without_repeating_characters.py) |
+| Medium | 5      | [Longest Palindromic Substring](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0005_longest_palindromic_substring.py)                                   |
+| Easy   | 14     | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0014_longest_common_prefix.py)                                                     |
+| Easy   | 20     | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0020_valid_parentheses.py)                                                             |
+| Easy   | 28     | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0028_implement_strstr.py)                                                               |
+| Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0038_count_and_say.py)                                                                     |
 
 ## Linked list
 
-| Level  | Number | Name |
-| -------| ------ | ------------ |
-| Medium | 2 | [Add two numbers](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0002_add_two_numbers.py)|
-| Medium | 19 | [Remove Nth Node From End of List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0019_remove_nth_node_from_end_of_list.py)|
-| Easy | 21 | [Merge Two Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0021_merge_two_sorted_lists.py)|
-| Hard | 23 | [Merge k Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0023_merge_k_sorted_lists.py)|
-| Medium | 24 | [Swap Nodes in Pairs](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0024_swap_nodes_in_pairs.py)|
-| Hard | 25 | [Reverse Nodes in k-Group](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0025_reverse_nodes_in_k-group.py)|
-| Medium | 61 | [Rotate List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0061_rotate_list.py)|
-| Medium | 92 | [Reverse Linked List II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0092_reverse_linked_list_ii.py)|
-| Easy | 141 | [Linked List Cycle](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0141_linked_list_cycle.py)|
-| Medium | 142 | [Linked List Cycle II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0142_linked_list_cycle_ii.py)|
-| Easy | 206 | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)|
-| Medium | 707 | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)|
+| Level  | Number | Name                                                                                                                                                |
+|--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Medium | 2      | [Add two numbers](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0002_add_two_numbers.py)                                   |
+| Medium | 19     | [Remove Nth Node From End of List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0019_remove_nth_node_from_end_of_list.py) |
+| Easy   | 21     | [Merge Two Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0021_merge_two_sorted_lists.py)                       |
+| Hard   | 23     | [Merge k Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0023_merge_k_sorted_lists.py)                           |
+| Medium | 24     | [Swap Nodes in Pairs](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0024_swap_nodes_in_pairs.py)                           |
+| Hard   | 25     | [Reverse Nodes in k-Group](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0025_reverse_nodes_in_k-group.py)                   |
+| Medium | 61     | [Rotate List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0061_rotate_list.py)                                           |
+| Medium | 92     | [Reverse Linked List II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0092_reverse_linked_list_ii.py)                     |
+| Easy   | 141    | [Linked List Cycle](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0141_linked_list_cycle.py)                                 |
+| Medium | 142    | [Linked List Cycle II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0142_linked_list_cycle_ii.py)                         |
+| Easy   | 206    | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)                             |
+| Medium | 707    | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)                             |
 
 
 ## Trees and BST
 
 | Level  | Number | Name                                                                                                                                                                                                    |
 |--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Medium | 95     | [Unique Binary Search Trees II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0095_unique_bin_search_trees_ii.py)                                                              |
 | Medium | 98     | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0098_validate_binary_search_tree.py)                                                               |
 | Easy   | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0100_same_tree.py)                                                                                                     |
 | Medium | 106    | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py) |
@@ -75,14 +76,15 @@ Tables of solved problems by topics:
 
 ## Other
 
-| Level  | Number | Name                                                                                                                    |
-|--------|--------|-------------------------------------------------------------------------------------------------------------------------|
-| Easy   | 7      | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0007_reverse_integer.py)         |
-| Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0009_palindrome_number.py)     |
-| Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py) |
-| Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0050_pow_x_n.py)                     |
-| Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0070_climbing_stairs.py)         |
-| Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0077_combinations.py)             |
-| Medium | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0119_pascal_triangle_II.py) |
-| Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0279_perfect_squares.py)       |
-| Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0509_fibonacci_number.py)       | 
+| Level  | Number | Name                                                                                                                           |
+|--------|--------|--------------------------------------------------------------------------------------------------------------------------------|
+| Easy   | 7      | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0007_reverse_integer.py)                |
+| Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0009_palindrome_number.py)            |
+| Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py)        |
+| Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0050_pow_x_n.py)                            |
+| Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0070_climbing_stairs.py)                |
+| Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0077_combinations.py)                    |
+| Medium | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0119_pascal_triangle_II.py)        |
+| Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0279_perfect_squares.py)              |
+| Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0509_fibonacci_number.py)              |
+| Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0779_kth_symbol_in_grammar.py) |
