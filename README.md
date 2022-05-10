@@ -13,23 +13,23 @@ Tables of solved problems by topics:
  
 ## Array
 
-| Level  | Number | Name                                                                                                                                                                                           |
-|--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Easy   | 1      | [Two Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0001_two_sum.py)                                                                                                   |
-| Hard   | 4      | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0004_median_of_two_sorted_arrays.py)                                                        |
-| Medium | 15     | [3Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0015_3sum.py)                                                                                                       |
-| Easy   | 26     | [Remove Duplicates from Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0026_remove_duplicates_from_sorted_array.py)                                           |
-| Easy   | 27     | [Remove Element](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0027_remove_element.py)                                                                                     |
-| Medium | 33     | [Search in Rotated Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0033_search_in_rotated_sorted_array.py)                                                   |
-| Medium | 34     | [Find First and Last Position of Element in Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0034_find_first_and_last_position_of_element_in_sorted_array.py) |
-| Easy   | 35     | [Search Insert Position](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0035_search_insert_position.py)                                                                     |
-| Medium | 48     | [Rotate Image](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0048_rotate_image.py)                                                                                       |
-| Medium | 78     | [Subsets](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0078_subsets.py)                                                                                                 |
-| Medium | 80     | [Remove Duplicates from Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0080_remove_duplicates_from_sorted_array_ii.py)                                   |
-| Medium | 81     | [Search in Rotated Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0081_search_in_rotated_sorted_array_ii.py)                                             |
-| Easy   | 136    | [Single Number](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0136_single_number.py)                                                                                       |
-| Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0167_two_sum_ii_input_array_is_sorted.py)                                               |
-| Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
+| #   | Level  | Number | Name                                                                                                                                                                                           |
+|-----|--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Easy   | 1      | [Two Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0001_two_sum.py)                                                                                                   |
+| 2   | Hard   | 4      | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0004_median_of_two_sorted_arrays.py)                                                           |
+| 3   | Medium | 15     | [3Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0015_3sum.py)                                                                                                       |
+| 4   | Easy   | 26     | [Remove Duplicates from Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0026_remove_duplicates_from_sorted_array.py)                                           |
+| 5   | Easy   | 27     | [Remove Element](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0027_remove_element.py)                                                                                     |
+| 6   | Medium | 33     | [Search in Rotated Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0033_search_in_rotated_sorted_array.py)                                                   |
+| 7   | Medium | 34     | [Find First and Last Position of Element in Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0034_find_first_and_last_position_of_element_in_sorted_array.py) |
+| 8   | Easy   | 35     | [Search Insert Position](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0035_search_insert_position.py)                                                                     |
+| 9   | Medium | 48     | [Rotate Image](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0048_rotate_image.py)                                                                                       |
+| 10  | Medium | 78     | [Subsets](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0078_subsets.py)                                                                                                 |
+| 11  | Medium | 80     | [Remove Duplicates from Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0080_remove_duplicates_from_sorted_array_ii.py)                                   |
+| 12  | Medium | 81     | [Search in Rotated Sorted Array II](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0081_search_in_rotated_sorted_array_ii.py)                                             |
+| 13  | Easy   | 136    | [Single Number](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0136_single_number.py)                                                                                       |
+| 14  | Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0167_two_sum_ii_input_array_is_sorted.py)                                               |
+| 15  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
 
 ## String
 
@@ -76,15 +76,16 @@ Tables of solved problems by topics:
 
 ## Other
 
-| Level  | Number | Name                                                                                                                           |
-|--------|--------|--------------------------------------------------------------------------------------------------------------------------------|
-| Easy   | 7      | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0007_reverse_integer.py)                |
-| Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0009_palindrome_number.py)            |
-| Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0042_trapping_rain_water.py)        |
-| Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0050_pow_x_n.py)                            |
-| Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0070_climbing_stairs.py)                |
-| Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0077_combinations.py)                    |
-| Medium | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0119_pascal_triangle_II.py)        |
-| Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0279_perfect_squares.py)              |
-| Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0509_fibonacci_number.py)              |
-| Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0779_kth_symbol_in_grammar.py) |
+| #   | Level  | Number | Name                                                                                                                         |
+|-----|--------|--------|------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Easy   | 7      | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0007_reverse_integer.py)                 |
+| 2   | Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0009_palindrome_number.py)             |
+| 3   | Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0042_trapping_rain_water.py)         |
+| 4   | Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0050_pow_x_n.py)                             |
+| 5   | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0070_climbing_stairs.py)                 |
+| 6   | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                     |
+| 7   | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)         |
+| 8   | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)               |
+| 9   | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)               |
+| 10  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)   |
+| 11  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)  |
