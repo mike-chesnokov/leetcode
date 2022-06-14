@@ -16,7 +16,7 @@ Tables of solved problems by topics:
 | #   | Level  | Number | Name                                                                                                                                                                                           |
 |-----|--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Easy   | 1      | [Two Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0001_two_sum.py)                                                                                                   |
-| 2   | Hard   | 4      | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0004_median_of_two_sorted_arrays.py)                                                           |
+| 2   | Hard   | 4      | [Median of Two Sorted Arrays](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0004_median_of_two_sorted_arrays.py)                                                           |
 | 3   | Medium | 15     | [3Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0015_3sum.py)                                                                                                       |
 | 4   | Easy   | 26     | [Remove Duplicates from Sorted Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0026_remove_duplicates_from_sorted_array.py)                                           |
 | 5   | Easy   | 27     | [Remove Element](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0027_remove_element.py)                                                                                     |
@@ -41,7 +41,7 @@ Tables of solved problems by topics:
 | Easy   | 20     | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0020_valid_parentheses.py)                                                             |
 | Easy   | 28     | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0028_implement_strstr.py)                                                               |
 | Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0038_count_and_say.py)                                                                     |
-
+| Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                                   |
 ## Linked list
 
 | Level  | Number | Name                                                                                                                                                |
