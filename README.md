@@ -30,18 +30,20 @@ Tables of solved problems by topics:
 | 13  | Easy   | 136    | [Single Number](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0136_single_number.py)                                                                                       |
 | 14  | Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0167_two_sum_ii_input_array_is_sorted.py)                                               |
 | 15  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
+| 16  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
-| Level  | Number | Name                                                                                                                                                                            |
-|--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medium | 3      | [Longest Substring Without Repeating Characters](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0003_longest_substring_without_repeating_characters.py) |
-| Medium | 5      | [Longest Palindromic Substring](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0005_longest_palindromic_substring.py)                                   |
-| Easy   | 14     | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0014_longest_common_prefix.py)                                                     |
-| Easy   | 20     | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0020_valid_parentheses.py)                                                             |
-| Easy   | 28     | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0028_implement_strstr.py)                                                               |
-| Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0038_count_and_say.py)                                                                     |
-| Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                                   |
+| #   | Level  | Number | Name                                                                                                                                                                        |
+|-----|--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Medium | 3      | [Longest Substring Without Repeating Characters](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0003_longest_substring_without_repeating_characters.py) |
+| 2   | Medium | 5      | [Longest Palindromic Substring](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0005_longest_palindromic_substring.py)                                 |
+| 3   | Easy   | 14     | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0014_longest_common_prefix.py)                                                   |
+| 4   | Easy   | 20     | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0020_valid_parentheses.py)                                                           |
+| 5   | Easy   | 28     | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0028_implement_strstr.py)                                                             |
+| 6   | Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0038_count_and_say.py)                                                                   |
+| 7   | Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                               |
+
 ## Linked list
 
 | Level  | Number | Name                                                                                                                                                |
