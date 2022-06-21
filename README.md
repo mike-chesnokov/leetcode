@@ -42,7 +42,8 @@ Tables of solved problems by topics:
 | 4   | Easy   | 20     | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0020_valid_parentheses.py)                                                           |
 | 5   | Easy   | 28     | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0028_implement_strstr.py)                                                             |
 | 6   | Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0038_count_and_say.py)                                                                   |
-| 7   | Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                               |
+| 7   | Medium | 386    | [Lexicographical Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0386_lexicographical_numbers.py)
+| 8   | Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                               |
 
 ## Linked list
 
