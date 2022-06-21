@@ -43,7 +43,7 @@ class Solution:
         #    if cum_cnt + coef < self.min_cnt:
         #        self.compute(diff, psn_list[1:].copy(), cum_cnt + coef)
 
-    def numSquares(self, n: int) -> int:
+    def recursive(self, n: int) -> int:
         if n < 4:
             return n
 
@@ -51,3 +51,44 @@ class Solution:
 
         self.compute(n, 0)
         return int(self.min_cnt)
+
+    def dp(self, n: int) -> int:
+        if n < 4:
+            return n
+
+        # get the list or perfect squares to use
+        perfect_sqs = [cand * cand
+                       for cand in range(1, int(n ** 0.5) + 1)]
+        # print(perfect_sqs)
+
+        # process the case then n is square itself
+        pss = set(perfect_sqs)
+        if n in pss:
+            return 1
+
+        dp = list(range(1, n + 1))
+        # print(dp)
+
+        for sq in perfect_sqs[1:]:
+            for ind in range(1, n):
+                residue = (ind + 1) % sq
+                if residue == 0:
+                    dp[ind] = min(dp[ind],
+                                  (ind + 1) // sq)
+                else:
+                    if ind - sq < 0:
+                        dp[ind] = dp[ind]
+                    else:
+                        dp[ind] = min(dp[ind],
+                                      1 + dp[ind - sq])
+                # print('sq =', sq)
+                # print('ind =', ind)
+                # print('residue =', residue)
+                # print(dp[-1])
+                # print('****************')
+        # print(dp)
+        return dp[-1]
+
+    def numSquares(self, n: int) -> int:
+        # return self.recursive(n)  # accepted
+        return self.dp(n)  # time limit
