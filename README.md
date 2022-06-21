@@ -94,3 +94,4 @@ Tables of solved problems by topics:
 | 11  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                               |
 | 12  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                   |
 | 13  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                  |
+| 14  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                                                                                                                                         |
