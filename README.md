@@ -30,8 +30,9 @@ Tables of solved problems by topics:
 | 13  | Easy   | 136    | [Single Number](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0136_single_number.py)                                                                                       |
 | 14  | Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0167_two_sum_ii_input_array_is_sorted.py)                                               |
 | 15  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
-| 16  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
-| 17  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 16  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
+| 17  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
+| 18  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
