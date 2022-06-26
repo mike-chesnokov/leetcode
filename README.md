@@ -1,8 +1,8 @@
 # Leetcode solutions
 My LeetCode problems python solutions.
 
-Repository contains 3 folders (level of problems)
-with `.py` files with solutions.
+Repository contains 5 folders (by data structures)
+with `.py` files of solutions.
 
 Tables of solved problems by topics:
 - Array
@@ -36,16 +36,17 @@ Tables of solved problems by topics:
 
 ## String
 
-| #   | Level  | Number | Name                                                                                                                                                                        |
-|-----|--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| #   | Level  | Number | Name                                                                                                                                                                          |
+|-----|--------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Medium | 3      | [Longest Substring Without Repeating Characters](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0003_longest_substring_without_repeating_characters.py) |
-| 2   | Medium | 5      | [Longest Palindromic Substring](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0005_longest_palindromic_substring.py)                                 |
-| 3   | Easy   | 14     | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0014_longest_common_prefix.py)                                                   |
-| 4   | Easy   | 20     | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0020_valid_parentheses.py)                                                           |
-| 5   | Easy   | 28     | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0028_implement_strstr.py)                                                             |
-| 6   | Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0038_count_and_say.py)                                                                   |
-| 7   | Medium | 386    | [Lexicographical Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0386_lexicographical_numbers.py)
-| 8   | Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                               |
+| 2   | Medium | 5      | [Longest Palindromic Substring](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0005_longest_palindromic_substring.py)                                   |
+| 3   | Easy   | 14     | [Longest Common Prefix](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0014_longest_common_prefix.py)                                                     |
+| 4   | Easy   | 20     | [Valid Parentheses](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0020_valid_parentheses.py)                                                             |
+| 5   | Easy   | 28     | [Implement strStr](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0028_implement_strstr.py)                                                               |
+| 6   | Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0038_count_and_say.py)                                                                     |
+| 7   | Medium | 386    | [Lexicographical Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0386_lexicographical_numbers.py)                                               |
+| 8   | Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                                 |
+| 9   | Medium | 1849   | [Splitting a String Into Descending Consecutive Values](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/)                                                |
 
 ## Linked list
 
