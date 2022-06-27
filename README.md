@@ -8,7 +8,7 @@ Tables of solved problems by topics:
 - Array
 - String
 - Linked list
-- Trees and Binary Search Tree (BST)
+- Trees and graphs
 - Other
  
 ## Array
@@ -66,7 +66,7 @@ Tables of solved problems by topics:
 | Medium | 707    | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)                             |
 
 
-## Trees and BST
+## Trees and graphs
 
 | #   | Level  | Number | Name                                                                                                                                                                                                |
 |-----|--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -75,11 +75,11 @@ Tables of solved problems by topics:
 | 3   | Easy   | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0100_same_tree.py)                                                                                                     |
 | 4   | Medium | 106    | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py) |
 | 5   | Easy   | 104    | [Maximum Depth Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0104_max_depth_bin_tree.py)                                                                            |
-| 6   | Medium | 199    | [Binary Tree Right Side View](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0199_bin_tree_right_side_view.py)                                                                                                                                     
+| 6   | Medium | 199    | [Binary Tree Right Side View](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0199_bin_tree_right_side_view.py)                                                                  
 | 7   | Medium | 654    | [Maximum Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0654_max_binary_tree.py)                                                                                   |
 | 8   | Easy   | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0700_search_in_a_binary_search_tree.py)                                                           |
 | 9   | Easy   | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0783_minimum_distance_between_BST_nodes.py)                                                   |
-
+| 10  | Hard   | 864    | [Shortest Path to Get All Keys](https://github.com/mike-chesnokov/leetcode/blob/master/tree/hard/0864_shortest_path_to_get_all_keys.py)                                                             | 
 
 ## Other
 
