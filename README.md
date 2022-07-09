@@ -46,7 +46,8 @@ Tables of solved problems by topics:
 | 6   | Easy   | 38     | [Count and Say](https://github.com/mike-chesnokov/leetcode/blob/master/string/easy/0038_count_and_say.py)                                                                        |
 | 7   | Medium | 386    | [Lexicographical Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0386_lexicographical_numbers.py)                                                  |
 | 8   | Hard   | 726    | [Number of Atoms](https://github.com/mike-chesnokov/leetcode/blob/master/string/hard/0726_number_of_atoms.py)                                                                    |
-| 9   | Medium | 1849   | [Splitting a String Into Descending Consecutive Values](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/1849_splitting_str_into_desc_consecutive_values.py) |
+| 9   | Medium | 752    | [Open the Lock](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/0752_open_the_lock.py)                                                                      |
+| 10  | Medium | 1849   | [Splitting a String Into Descending Consecutive Values](https://github.com/mike-chesnokov/leetcode/blob/master/string/medium/1849_splitting_str_into_desc_consecutive_values.py) |
 
 ## Linked list
 
