@@ -53,6 +53,7 @@ class Solution:
         return int(self.min_cnt)
 
     def dp(self, n: int) -> int:
+        """Dynamic Programming solution"""
         if n < 4:
             return n
 
@@ -75,20 +76,71 @@ class Solution:
                 if residue == 0:
                     dp[ind] = min(dp[ind],
                                   (ind + 1) // sq)
+                    # print(dp[ind],  (ind + 1)// sq)
                 else:
                     if ind - sq < 0:
                         dp[ind] = dp[ind]
                     else:
                         dp[ind] = min(dp[ind],
                                       1 + dp[ind - sq])
+                        # print(dp[ind],  1 + dp[ind - sq])
                 # print('sq =', sq)
                 # print('ind =', ind)
                 # print('residue =', residue)
                 # print(dp[-1])
                 # print('****************')
+
         # print(dp)
         return dp[-1]
 
+    def dp2(self, n: int) -> int:
+        """Dynamic Programming optimized solution"""
+        dp = list(range(n + 1))
+
+        for ind in range(1, n + 1):
+            dp[ind] = min(dp[ind - ind2 * ind2]
+                          for ind2 in range(1, int(ind ** 0.5) + 1)) + 1
+        return dp[n]
+
+    def bfs(self, n: int) -> int:
+        """
+        Breadth First Search solution
+        """
+        if n < 4:
+            return n
+
+        # queue of number and cnt of squares
+        queue = [(n, 0)]
+        seen = set()
+        cur_min = n
+
+        while queue:
+            # print('************************')
+            num, cnt_squares = queue.pop(0)
+            # print('num = ', num, 'cnt_squares = ', cnt_squares)
+
+            if num == 0:
+                if cnt_squares < cur_min:
+                    cur_min = cnt_squares
+                    # iterate over perfect squares for current num
+            for ind in range(1, int(num ** 0.5) + 1):
+                sq = ind * ind
+                coef = num // sq
+                temp = (num % sq, cnt_squares + coef)
+                # print('queue = ', queue)
+                # print('temp = ', temp, 'sq = ', sq, 'cur_min = ', cur_min)
+
+                if temp in seen:
+                    continue
+
+                if num >= sq and num > 0:
+                    queue.append(temp)
+                    seen.add(temp)
+
+        return cur_min
+
     def numSquares(self, n: int) -> int:
         # return self.recursive(n)  # accepted
-        return self.dp(n)  # time limit
+        # return self.dp(n)  # Time limit exceeded
+        return self.dp2(n)  # Accepted solution
+        # return self.bfs(n)   # Accepted solution
