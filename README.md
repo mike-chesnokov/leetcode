@@ -94,6 +94,7 @@ Tables of solved problems by topics:
 | 5   | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0070_climbing_stairs.py)                                 |
 | 6   | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                     |
 | 7   | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                         |
+| 8   | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                           |
 | 8   | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                               |
 | 9   | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)            |
 | 10  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                   |
