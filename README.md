@@ -32,7 +32,8 @@ Tables of solved problems by topics:
 | 15  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
 | 16  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
 | 17  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
-| 18  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 18  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
+| 19  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
