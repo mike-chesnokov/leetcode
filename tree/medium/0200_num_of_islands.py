@@ -32,7 +32,7 @@ Constraints:
     grid[i][j] is '0' or '1'.
 """
 
-from typing import List
+from typing import List, Set, Tuple
 
 
 class Solution:
@@ -139,6 +139,45 @@ class Solution:
                     self.bfs2_helper(row_ind, col_ind, grid)
         return cnt_islands
 
+    def dfs_helper(self, cur_row: int, cur_col: int,
+                   grid: List[List[str]],
+                   visited: Set[Tuple[int, int]]
+                   ) -> None:
+        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+
+        for row_diff, col_diff in directions:
+            new_row = cur_row + row_diff
+            new_col = cur_col + col_diff
+
+            if new_row < 0 or new_row >= len(grid) or \
+                    new_col < 0 or new_col >= len(grid[0]) or \
+                    (new_row, new_col) in visited:
+                continue
+            else:
+                if grid[new_row][new_col] == '1':
+                    visited.add((new_row, new_col))
+                    grid[new_row][new_col] = 'x'
+                    self.dfs_helper(new_row, new_col, grid, visited)
+
+    def dfs(self, grid: List[List[str]]) -> int:
+        """
+        1. start dfs from every "1"
+        2. connected "1" change to "x"
+        3. with connected "1" go deeper dfs recursion
+        """
+        num_rows = len(grid)
+        num_cols = len(grid[0])
+        cnt_islands = 0
+        # iterate over grid
+        for row_ind in range(num_rows):
+            for col_ind in range(num_cols):
+                if grid[row_ind][col_ind] == "1":
+                    # start bfs from every "1"
+                    cnt_islands += 1
+                    self.dfs_helper(row_ind, col_ind, grid, {(row_ind, col_ind)})
+        return cnt_islands
+
     def numIslands(self, grid: List[List[str]]) -> int:
         # return self.bfs(grid)  # accepted solution
-        return self.bfs2(grid)  # accepted solution, faster
+        # return self.bfs2(grid)  # accepted solution, faster
+        return self.dfs(grid)  # accepted solution
