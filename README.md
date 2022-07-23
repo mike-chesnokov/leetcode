@@ -30,11 +30,12 @@ Tables of solved problems by topics:
 | 13  | Easy   | 136    | [Single Number](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0136_single_number.py)                                                                                       |
 | 14  | Medium | 150    | [Evaluate Reverse Polish Notation](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0150_evaluate_reverse_polish_notation.py)                                               |
 | 15  | Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0167_two_sum_ii_input_array_is_sorted.py)                                               |
-| 16  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
-| 17  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
-| 18  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
-| 19  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
-| 20  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 16  | Medium | 494    | [Target Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0494_target_sum.py)                                                                                           |
+| 17  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
+| 18  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
+| 19  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
+| 20  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
+| 21  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
@@ -78,13 +79,13 @@ Tables of solved problems by topics:
 | 3   | Easy   | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0100_same_tree.py)                                                                                                     |
 | 4   | Medium | 106    | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py) |
 | 5   | Easy   | 104    | [Maximum Depth Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0104_max_depth_bin_tree.py)                                                                            |
-| 6   | Medium | 133    | [Clone Graph](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0133_clone_graph.py) 
-| 6   | Medium | 199    | [Binary Tree Right Side View](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0199_bin_tree_right_side_view.py)                                                                  
-| 7   | Medium | 200    | [Number of Islands](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0200_num_of_islands.py)                                                                                                                                                         |
-| 7   | Medium | 654    | [Maximum Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0654_max_binary_tree.py)                                                                                   |
-| 8   | Easy   | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0700_search_in_a_binary_search_tree.py)                                                           |
-| 9   | Easy   | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0783_minimum_distance_between_BST_nodes.py)                                                   |
-| 10  | Hard   | 864    | [Shortest Path to Get All Keys](https://github.com/mike-chesnokov/leetcode/blob/master/tree/hard/0864_shortest_path_to_get_all_keys.py)                                                             | 
+| 6   | Medium | 133    | [Clone Graph](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0133_clone_graph.py)                                                                                               |
+| 7   | Medium | 199    | [Binary Tree Right Side View](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0199_bin_tree_right_side_view.py)                                                                  |                                                          
+| 8   | Medium | 200    | [Number of Islands](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0200_num_of_islands.py)                                                                                      |
+| 9   | Medium | 654    | [Maximum Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0654_max_binary_tree.py)                                                                                   |
+| 10  | Easy   | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0700_search_in_a_binary_search_tree.py)                                                           |
+| 11  | Easy   | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0783_minimum_distance_between_BST_nodes.py)                                                   |
+| 12  | Hard   | 864    | [Shortest Path to Get All Keys](https://github.com/mike-chesnokov/leetcode/blob/master/tree/hard/0864_shortest_path_to_get_all_keys.py)                                                             | 
 
 ## Other
 
@@ -98,11 +99,11 @@ Tables of solved problems by topics:
 | 6   | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                     |
 | 7   | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                         |
 | 8   | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                           |
-| 8   | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                               |
-| 9   | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)            |
-| 10  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                   |
-| 11  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py) |
-| 12  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                               |
-| 13  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                   |
-| 14  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                  |
-| 15  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)         |
+| 9   | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                               |
+| 10  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)            |
+| 11  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                   |
+| 12  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py) |
+| 13  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                               |
+| 14  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                   |
+| 15  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                  |
+| 16  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)         |
