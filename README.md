@@ -75,18 +75,18 @@ Tables of solved problems by topics:
 | #   | Level  | Number | Name                                                                                                                                                                                                |
 |-----|--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Easy   | 94     | [Binary Tree Inorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0094_bin_tree_inorder_traversal.py)                                                                |
-| 1   | Medium | 95     | [Unique Binary Search Trees II](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0095_unique_bin_search_trees_ii.py)                                                              |
-| 2   | Medium | 98     | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0098_validate_binary_search_tree.py)                                                               |
-| 3   | Easy   | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0100_same_tree.py)                                                                                                     |
-| 4   | Medium | 106    | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py) |
-| 5   | Easy   | 104    | [Maximum Depth Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0104_max_depth_bin_tree.py)                                                                            |
-| 6   | Medium | 133    | [Clone Graph](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0133_clone_graph.py)                                                                                               |
-| 7   | Medium | 199    | [Binary Tree Right Side View](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0199_bin_tree_right_side_view.py)                                                                  |                                                          
-| 8   | Medium | 200    | [Number of Islands](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0200_num_of_islands.py)                                                                                      |
-| 9   | Medium | 654    | [Maximum Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0654_max_binary_tree.py)                                                                                   |
-| 10  | Easy   | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0700_search_in_a_binary_search_tree.py)                                                           |
-| 11  | Easy   | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0783_minimum_distance_between_BST_nodes.py)                                                   |
-| 12  | Hard   | 864    | [Shortest Path to Get All Keys](https://github.com/mike-chesnokov/leetcode/blob/master/tree/hard/0864_shortest_path_to_get_all_keys.py)                                                             | 
+| 2   | Medium | 95     | [Unique Binary Search Trees II](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0095_unique_bin_search_trees_ii.py)                                                              |
+| 3   | Medium | 98     | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0098_validate_binary_search_tree.py)                                                               |
+| 4   | Easy   | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0100_same_tree.py)                                                                                                     |
+| 5   | Medium | 106    | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0106_construct_binary_tree_from_inorder_and_postorder_traversal.py) |
+| 6   | Easy   | 104    | [Maximum Depth Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0104_max_depth_bin_tree.py)                                                                            |
+| 7   | Medium | 133    | [Clone Graph](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0133_clone_graph.py)                                                                                               |
+| 8   | Medium | 199    | [Binary Tree Right Side View](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0199_bin_tree_right_side_view.py)                                                                  |                                                          
+| 9   | Medium | 200    | [Number of Islands](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0200_num_of_islands.py)                                                                                      |
+| 10  | Medium | 654    | [Maximum Binary Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0654_max_binary_tree.py)                                                                                   |
+| 11  | Easy   | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0700_search_in_a_binary_search_tree.py)                                                           |
+| 12  | Easy   | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0783_minimum_distance_between_BST_nodes.py)                                                   |
+| 13  | Hard   | 864    | [Shortest Path to Get All Keys](https://github.com/mike-chesnokov/leetcode/blob/master/tree/hard/0864_shortest_path_to_get_all_keys.py)                                                             | 
 
 ## Other
 
@@ -100,6 +100,7 @@ Tables of solved problems by topics:
 | 6   | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                     |
 | 7   | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                         |
 | 8   | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                           |
+| 9   | Easy   | 232    | [Implement Queue using Stacks](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/)                                                                                                                                         |
 | 9   | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                               |
 | 10  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)            |
 | 11  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                   |
