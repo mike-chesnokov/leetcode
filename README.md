@@ -74,6 +74,7 @@ Tables of solved problems by topics:
 
 | #   | Level  | Number | Name                                                                                                                                                                                                |
 |-----|--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Easy   | 94     | [Binary Tree Inorder Traversal](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0094_bin_tree_inorder_traversal.py)                                                                |
 | 1   | Medium | 95     | [Unique Binary Search Trees II](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0095_unique_bin_search_trees_ii.py)                                                              |
 | 2   | Medium | 98     | [Validate Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/0098_validate_binary_search_tree.py)                                                               |
 | 3   | Easy   | 100    | [Same tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0100_same_tree.py)                                                                                                     |
