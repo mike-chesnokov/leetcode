@@ -34,8 +34,9 @@ Tables of solved problems by topics:
 | 17  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
 | 18  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
 | 19  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
-| 20  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
-| 21  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 20  | Easy   | 733    | [Flood Fill](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0733_flood_fill.py)                                                                                             |
+| 21  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
+| 22  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
