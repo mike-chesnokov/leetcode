@@ -32,12 +32,13 @@ Tables of solved problems by topics:
 | 15  | Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0167_two_sum_ii_input_array_is_sorted.py)                                               |
 | 16  | Medium | 494    | [Target Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0494_target_sum.py)                                                                                           |
 | 17  | Medium | 542    | [01 matrix](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0542_01_matrix.py)                                                                                             |
-| 17  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
-| 18  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
-| 19  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
-| 20  | Easy   | 733    | [Flood Fill](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0733_flood_fill.py)                                                                                             |
-| 21  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
-| 22  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 18  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
+| 19  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
+| 20  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
+| 21  | Easy   | 733    | [Flood Fill](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0733_flood_fill.py)                                                                                             |
+| 22  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
+| 23  | Medium | 841    | [Keys and Rooms](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0841_keys_and_rooms.py)                                                                                   | 
+| 24  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
