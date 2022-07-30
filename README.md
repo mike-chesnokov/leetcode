@@ -31,6 +31,7 @@ Tables of solved problems by topics:
 | 14  | Medium | 150    | [Evaluate Reverse Polish Notation](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0150_evaluate_reverse_polish_notation.py)                                               |
 | 15  | Easy   | 167    | [Two Sum II - Input array is sorted](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0167_two_sum_ii_input_array_is_sorted.py)                                               |
 | 16  | Medium | 494    | [Target Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0494_target_sum.py)                                                                                           |
+| 17  | Medium | 542    | [01 matrix](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0542_01_matrix.py)                                                                                             |
 | 17  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
 | 18  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
 | 19  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
