@@ -38,7 +38,8 @@ Tables of solved problems by topics:
 | 21  | Easy   | 733    | [Flood Fill](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0733_flood_fill.py)                                                                                             |
 | 22  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
 | 23  | Medium | 841    | [Keys and Rooms](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0841_keys_and_rooms.py)                                                                                   | 
-| 24  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 24  | Medium | 912    | [Sort an Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0912_sort_an_array.py)
+| 25  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
