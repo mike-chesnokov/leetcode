@@ -102,6 +102,7 @@ Tables of solved problems by topics:
 | 2   | Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0009_palindrome_number.py)                             |
 | 3   | Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0042_trapping_rain_water.py)                         |
 | 4   | Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0050_pow_x_n.py)                                             |
+| 5   | Hard   | 52     | [N-Queens II](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0052_n_queens_ii.py)                                         |
 | 5   | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0070_climbing_stairs.py)                                 |
 | 6   | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                     |
 | 7   | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                         |
