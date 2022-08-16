@@ -23,6 +23,9 @@ from typing import List
 
 class Solution:
 
+    def __init__(self):
+        self.all_output: List[List[int]] = []
+
     def backtrack(self, n, k, cur_arr, index, result):
 
         if len(cur_arr) == k:
@@ -54,6 +57,36 @@ class Solution:
         arr = list(range(1, n + 1))
         return combinations(arr, k)
 
+    def backtrack2(self,
+                   nums: List[int],
+                   k: int,
+                   cur_output: List[int]) -> None:
+        """
+        Backtrack solution using template
+        """
+        # print('*************************')
+        # print('nums = ', nums)
+        # print('cur_output = ', cur_output)
+        # print('all_output = ', self.all_output)
+
+        if len(cur_output) == k:
+            self.all_output.append(cur_output.copy())
+            return
+
+        for ind, num in enumerate(nums):
+            # use current candidate
+            cur_output.append(num)
+
+            # go deeper
+            self.backtrack2(nums[ind + 1:], k, cur_output)
+
+            # backtrack
+            cur_output.pop()
+
+        return
+
     def combine(self, n: int, k: int) -> List[List[int]]:
-        return self.recursiveSolution(n, k)
+        # return self.recursiveSolution(n, k)
         # return self.pythonCheat(n, k)
+        self.backtrack2(list(range(1, n+1)), k, [])
+        return self.all_output
