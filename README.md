@@ -104,20 +104,21 @@ Tables of solved problems by topics:
 | 2   | Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0009_palindrome_number.py)                             |
 | 3   | Hard   | 37     | [Sudoku Solver](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0037_sudoku_solver.py)                                     |
 | 4   | Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0042_trapping_rain_water.py)                         |
-| 5   | Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0050_pow_x_n.py)                                             |
-| 6   | Hard   | 52     | [N-Queens II](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0052_n_queens_ii.py)                                         |
-| 7   | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0070_climbing_stairs.py)                                 |
-| 8   | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                     |
-| 9   | Hard   | 84     | [Largest Rectangle in Histogram](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0084_largest_rectangle_in_histogram.py)   | 
-| 10  | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                         |
-| 11  | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                           |
-| 12  | Easy   | 225    | [Implement Stack using Queues](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0225_implement_stack_using_queues.py)       | 
-| 13  | Easy   | 232    | [Implement Queue using Stacks](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0232_implement_queue_using_stacks.py)       |
-| 14  | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                               |
-| 15  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)            |
-| 16  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                   |
-| 17  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py) |
-| 18  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                               |
-| 19  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                   |
-| 20  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                  |
-| 21  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)         |
+| 5   | Medium | 46     | [Permutations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0046_permutations.py)                                     | 
+| 6   | Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0050_pow_x_n.py)                                             |
+| 7   | Hard   | 52     | [N-Queens II](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0052_n_queens_ii.py)                                         |
+| 8   | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0070_climbing_stairs.py)                                 |
+| 9   | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                     |
+| 10  | Hard   | 84     | [Largest Rectangle in Histogram](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0084_largest_rectangle_in_histogram.py)   | 
+| 11  | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                         |
+| 12  | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                           |
+| 13  | Easy   | 225    | [Implement Stack using Queues](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0225_implement_stack_using_queues.py)       | 
+| 14  | Easy   | 232    | [Implement Queue using Stacks](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0232_implement_queue_using_stacks.py)       |
+| 15  | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                               |
+| 16  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)            |
+| 17  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                   |
+| 18  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py) |
+| 19  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                               |
+| 20  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                   |
+| 21  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                  |
+| 22  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)         |
