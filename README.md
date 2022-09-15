@@ -113,13 +113,14 @@ Tables of solved problems by topics:
 | 11  | Hard   | 84     | [Largest Rectangle in Histogram](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0084_largest_rectangle_in_histogram.py)              | 
 | 12  | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                                    |
 | 13  | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                                      |
-| 14  | Easy   | 225    | [Implement Stack using Queues](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0225_implement_stack_using_queues.py)                  | 
-| 15  | Easy   | 232    | [Implement Queue using Stacks](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0232_implement_queue_using_stacks.py)                  |
-| 16  | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                                          |
-| 17  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)                       |
-| 18  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                              |
-| 19  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py)            |
-| 20  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                                          |
-| 21  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                              |
-| 22  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
-| 23  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                    |
+| 14  | Hard   | 218    | [The Skyline Problem](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0218_skyline_problem.py)                                        |
+| 15  | Easy   | 225    | [Implement Stack using Queues](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0225_implement_stack_using_queues.py)                  | 
+| 16  | Easy   | 232    | [Implement Queue using Stacks](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0232_implement_queue_using_stacks.py)                  |
+| 17  | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                                          |
+| 18  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)                       |
+| 19  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                              |
+| 20  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py)            |
+| 21  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                                          |
+| 22  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                              |
+| 23  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
+| 24  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                    |
