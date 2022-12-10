@@ -127,3 +127,4 @@ Tables of solved problems by topics:
 | 23  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
 | 24  | Hard   | 1223   | [Dice Roll Simulation](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/1223_dice_roll_simulation.py)                                  |
 | 25  | Medium | 1352   | [Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                     |
+| 26  | Medium | 1396   | [Design Underground System](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1396_design_underground_system.py)                      |
