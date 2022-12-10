@@ -40,8 +40,9 @@ Tables of solved problems by topics:
 | 23  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
 | 24  | Medium | 841    | [Keys and Rooms](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0841_keys_and_rooms.py)                                                                                   | 
 | 25  | Medium | 912    | [Sort an Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0912_sort_an_array.py)                                                                                     |
-| 26  | Easy   | 1572   | [Matrix Diagonal Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/1572_matrix_diag_sum.py)                                                                               |
-| 27  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 26  | Easy   | 1200   | [Minimum Absolute Difference](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/1200_min_abs_diff.py)                                                                          |
+| 27  | Easy   | 1572   | [Matrix Diagonal Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/1572_matrix_diag_sum.py)                                                                               |
+| 28  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
