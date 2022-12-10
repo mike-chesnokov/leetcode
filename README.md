@@ -98,29 +98,30 @@ Tables of solved problems by topics:
 
 ## Other
 
-| #   | Level  | Number | Name                                                                                                                                                    |
-|-----|--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Easy   | 7      | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0007_reverse_integer.py)                                            |
-| 2   | Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0009_palindrome_number.py)                                        |
+| #   | Level  | Number | Name                                                                                                                                                   |
+|-----|--------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Easy   | 7      | [Reverse Integer](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0007_reverse_integer.py)                                           |
+| 2   | Easy   | 9      | [Palindrome Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0009_palindrome_number.py)                                       |
 | 3   | Medium | 17     | [Letter Combinations of a Phone Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0017_letter_combinations_of_a_phone_num.py) |
-| 4   | Hard   | 37     | [Sudoku Solver](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0037_sudoku_solver.py)                                                |
-| 5   | Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0042_trapping_rain_water.py)                                    |
-| 6   | Medium | 46     | [Permutations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0046_permutations.py)                                                | 
-| 7   | Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0050_pow_x_n.py)                                                        |
-| 8   | Hard   | 52     | [N-Queens II](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0052_n_queens_ii.py)                                                    |
-| 9   | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0070_climbing_stairs.py)                                            |
-| 10  | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                                |
-| 11  | Hard   | 84     | [Largest Rectangle in Histogram](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0084_largest_rectangle_in_histogram.py)              | 
-| 12  | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                                    |
-| 13  | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                                      |
-| 14  | Hard   | 218    | [The Skyline Problem](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0218_skyline_problem.py)                                        |
-| 15  | Easy   | 225    | [Implement Stack using Queues](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0225_implement_stack_using_queues.py)                  | 
-| 16  | Easy   | 232    | [Implement Queue using Stacks](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0232_implement_queue_using_stacks.py)                  |
-| 17  | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                                          |
-| 18  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)                       |
-| 19  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                              |
-| 20  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py)            |
-| 21  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                                          |
-| 22  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                              |
-| 23  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
-| 24  | Medium | 1352   | [ Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                    |
+| 4   | Hard   | 37     | [Sudoku Solver](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0037_sudoku_solver.py)                                               |
+| 5   | Hard   | 42     | [Trapping Rain Water](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0042_trapping_rain_water.py)                                   |
+| 6   | Medium | 46     | [Permutations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0046_permutations.py)                                               | 
+| 7   | Medium | 50     | [Pow(x, n)](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0050_pow_x_n.py)                                                       |
+| 8   | Hard   | 52     | [N-Queens II](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0052_n_queens_ii.py)                                                   |
+| 9   | Easy   | 70     | [Climbing stairs](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0070_climbing_stairs.py)                                           |
+| 10  | Medium | 77     | [Combinations](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0077_combinations.py)                                               |
+| 11  | Hard   | 84     | [Largest Rectangle in Histogram](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0084_largest_rectangle_in_histogram.py)             | 
+| 12  | Easy   | 119    | [Pascal's Triangle II](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0119_pascal_triangle_II.py)                                   |
+| 13  | Medium | 155    | [Min Stack](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0155_min_stack.py)                                                     |
+| 14  | Hard   | 218    | [The Skyline Problem](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0218_skyline_problem.py)                                       |
+| 15  | Easy   | 225    | [Implement Stack using Queues](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0225_implement_stack_using_queues.py)                 | 
+| 16  | Easy   | 232    | [Implement Queue using Stacks](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0232_implement_queue_using_stacks.py)                 |
+| 17  | Medium | 279    | [Perfect Squares](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0279_perfect_squares.py)                                         |
+| 18  | Hard   | 295    | [Find Median from Data Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0295_find_median_from_stream.py)                      |
+| 19  | Hard   | 354    | [Russian Doll Envelopes](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/0354_russian_doll_envelopes.py)                             |
+| 20  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py)           |
+| 21  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                                         |
+| 22  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                             |
+| 23  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                            |
+| 24  | Hard   | 1223   | [Dice Roll Simulation](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/1223_dice_roll_simulation.py)                                                                                                                                                   |  
+| 25  | Medium | 1352   | [Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                    |
