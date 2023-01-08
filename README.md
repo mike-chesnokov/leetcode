@@ -36,14 +36,15 @@ Tables of solved problems by topics:
 | 19  | Easy   | 628    | [Maximum Product of Three Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0628_max_product_3_nums.py)                                                               |
 | 20  | Hard   | 679    | [24 Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/hard/0679_24_game.py)                                                                                                   |  
 | 21  | Easy   | 704    | [Binary Search](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0704_binary_search.py)                                                                                       |
-| 22  | Easy   | 733    | [Flood Fill](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0733_flood_fill.py)                                                                                             |
-| 23  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
-| 24  | Medium | 841    | [Keys and Rooms](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0841_keys_and_rooms.py)                                                                                   | 
-| 25  | Easy   | 905    | [Sort Array By Parity](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0905_sort_arr_by_parity.py)                                                                           |
-| 26  | Medium | 912    | [Sort an Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0912_sort_an_array.py)                                                                                     |
-| 27  | Easy   | 1200   | [Minimum Absolute Difference](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/1200_min_abs_diff.py)                                                                          |
-| 28  | Easy   | 1572   | [Matrix Diagonal Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/1572_matrix_diag_sum.py)                                                                               |
-| 29  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
+| 22  | Easy   | 717    | [1-bit and 2-bit Characters](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0717_1bit_2bit_chars.py)                                                                        | 
+| 23  | Easy   | 733    | [Flood Fill](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0733_flood_fill.py)                                                                                             |
+| 24  | Medium | 739    | [Daily Temperatures](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0739_daily_temperatures.py)                                                                           |
+| 25  | Medium | 841    | [Keys and Rooms](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0841_keys_and_rooms.py)                                                                                   | 
+| 26  | Easy   | 905    | [Sort Array By Parity](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/0905_sort_arr_by_parity.py)                                                                           |
+| 27  | Medium | 912    | [Sort an Array](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/0912_sort_an_array.py)                                                                                     |
+| 28  | Easy   | 1200   | [Minimum Absolute Difference](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/1200_min_abs_diff.py)                                                                          |
+| 29  | Easy   | 1572   | [Matrix Diagonal Sum](https://github.com/mike-chesnokov/leetcode/blob/master/array/easy/1572_matrix_diag_sum.py)                                                                               |
+| 30  | Medium | 1996   | [The Number of Weak Characters in the Game](https://github.com/mike-chesnokov/leetcode/blob/master/array/medium/1996_num_weak_characters_in_the_game.py)                                       |
 
 ## String
 
@@ -126,7 +127,8 @@ Tables of solved problems by topics:
 | 20  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py)            |
 | 21  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                                          |
 | 22  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                              |
-| 23  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
-| 24  | Hard   | 1223   | [Dice Roll Simulation](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/1223_dice_roll_simulation.py)                                  |
-| 25  | Medium | 1352   | [Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                     |
-| 26  | Medium | 1396   | [Design Underground System](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1396_design_underground_system.py)                      |
+| 23  | Easy   | 703    | [Kth Largest Element in a Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0703_kth_largest_element_in_a_stream.py)            |
+| 24  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
+| 25  | Hard   | 1223   | [Dice Roll Simulation](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/1223_dice_roll_simulation.py)                                  |
+| 26  | Medium | 1352   | [Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                     |
+| 27  | Medium | 1396   | [Design Underground System](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1396_design_underground_system.py)                      |
