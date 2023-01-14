@@ -100,6 +100,7 @@ Tables of solved problems by topics:
 | 12  | Easy   | 700    | [Search in a Binary Search Tree](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0700_search_in_a_binary_search_tree.py)                                                           |
 | 13  | Easy   | 783    | [Minimum Distance Between BST Nodes](https://github.com/mike-chesnokov/leetcode/blob/master/tree/easy/0783_minimum_distance_between_BST_nodes.py)                                                   |
 | 14  | Hard   | 864    | [Shortest Path to Get All Keys](https://github.com/mike-chesnokov/leetcode/blob/master/tree/hard/0864_shortest_path_to_get_all_keys.py)                                                             | 
+| 15  | Medium | 1110   | [Delete Nodes And Return Forest](https://github.com/mike-chesnokov/leetcode/blob/master/tree/medium/1110_delete_nodes_return_forest.py)                                                             |
 
 ## Other
 
@@ -127,8 +128,9 @@ Tables of solved problems by topics:
 | 20  | Medium | 470    | [Implement Rand10() Using Rand7()](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0470_implement_rand10_using_rand7.py)            |
 | 21  | Easy   | 509    | [Fibonacci Number](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0509_fibonacci_number.py)                                          |
 | 22  | Medium | 622    | [Design Circular Queue](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0622_design_circular_queue.py)                              |
-| 23  | Easy   | 703    | [Kth Largest Element in a Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0703_kth_largest_element_in_a_stream.py)            |
-| 24  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
-| 25  | Hard   | 1223   | [Dice Roll Simulation](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/1223_dice_roll_simulation.py)                                  |
-| 26  | Medium | 1352   | [Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                     |
-| 27  | Medium | 1396   | [Design Underground System](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1396_design_underground_system.py)                      |
+| 23  | Medium | 688    | [Knight Probability in Chessboard](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0688_knight_prob_chessboard.py)                  |
+| 24  | Easy   | 703    | [Kth Largest Element in a Stream](https://github.com/mike-chesnokov/leetcode/blob/master/other/easy/0703_kth_largest_element_in_a_stream.py)            |
+| 25  | Medium | 779    | [K-th Symbol in Grammar](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/0779_kth_symbol_in_grammar.py)                             |
+| 26  | Hard   | 1223   | [Dice Roll Simulation](https://github.com/mike-chesnokov/leetcode/blob/master/other/hard/1223_dice_roll_simulation.py)                                  |
+| 27  | Medium | 1352   | [Product of the Last K Numbers](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1352_product_last_k_numbers.py)                     |
+| 28  | Medium | 1396   | [Design Underground System](https://github.com/mike-chesnokov/leetcode/blob/master/other/medium/1396_design_underground_system.py)                      |
