@@ -66,20 +66,21 @@ Tables of solved problems by topics:
 
 ## Linked list
 
-| Level  | Number | Name                                                                                                                                                |
-|--------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medium | 2      | [Add two numbers](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0002_add_two_numbers.py)                                   |
-| Medium | 19     | [Remove Nth Node From End of List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0019_remove_nth_node_from_end_of_list.py) |
-| Easy   | 21     | [Merge Two Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0021_merge_two_sorted_lists.py)                       |
-| Hard   | 23     | [Merge k Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0023_merge_k_sorted_lists.py)                           |
-| Medium | 24     | [Swap Nodes in Pairs](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0024_swap_nodes_in_pairs.py)                           |
-| Hard   | 25     | [Reverse Nodes in k-Group](https://github.com/mike-chesnokov/leetcode/blob/master/hard_problems/0025_reverse_nodes_in_k-group.py)                   |
-| Medium | 61     | [Rotate List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0061_rotate_list.py)                                           |
-| Medium | 92     | [Reverse Linked List II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0092_reverse_linked_list_ii.py)                     |
-| Easy   | 141    | [Linked List Cycle](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0141_linked_list_cycle.py)                                 |
-| Medium | 142    | [Linked List Cycle II](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0142_linked_list_cycle_ii.py)                         |
-| Easy   | 206    | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/easy_problems/0206_reverse_linked_list.py)                             |
-| Medium | 707    | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/medium_problems/0707_design_linked_list.py)                             |
+| #   | Level  | Number | Name                                                                                                                                                   |
+|-----|--------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Medium | 2      | [Add two numbers](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0002_add_two_numbers.py)                                   |
+| 2   | Medium | 19     | [Remove Nth Node From End of List](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0019_remove_nth_node_from_end_of_list.py) |
+| 3   | Easy   | 21     | [Merge Two Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/easy/0021_merge_two_sorted_lists.py)                       |
+| 4   | Hard   | 23     | [Merge k Sorted Lists](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/hard/0023_merge_k_sorted_lists.py)                           |
+| 5   | Medium | 24     | [Swap Nodes in Pairs](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0024_swap_nodes_in_pairs.py)                           |
+| 6   | Hard   | 25     | [Reverse Nodes in k-Group](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/hard/0025_reverse_nodes_in_k-group.py)                   |
+| 7   | Medium | 61     | [Rotate List](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0061_rotate_list.py)                                           |
+| 8   | Medium | 92     | [Reverse Linked List II](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0092_reverse_linked_list_ii.py)                     |
+| 9   | Easy   | 141    | [Linked List Cycle](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/easy/0141_linked_list_cycle.py)                                 |
+| 10  | Medium | 142    | [Linked List Cycle II](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0142_linked_list_cycle_ii.py)                         |
+| 11  | Easy   | 206    | [Reverse Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/easy/0206_reverse_linked_list.py)                             |
+| 12  | Medium | 328    | [Odd Even Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0328_odd_even_linked_list.py)                         |
+| 13  | Medium | 707    | [Design Linked List](https://github.com/mike-chesnokov/leetcode/blob/master/linked_list/medium/0707_design_linked_list.py)                             |
 
 
 ## Trees and graphs

@@ -24,6 +24,11 @@ Example 3:
 Input: head = [1], pos = -1
 Output: no cycle
 Explanation: There is no cycle in the linked list.
+
+Constraints:
+    The number of the nodes in the list is in the range [0, 104].
+    -105 <= Node.val <= 105
+    pos is -1 or a valid index in the linked-list.
 """
 
 # Definition for singly-linked list.
@@ -87,6 +92,21 @@ class Solution:
             second = second.next
             
         return first
-        
+
+    def bruteforce(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        """
+        Simply go through the linked list
+        """
+        if head is None:
+            return None
+
+        all_nodes_set = set()
+
+        while head and head not in all_nodes_set:
+            all_nodes_set.add(head)
+            head = head.next
+
+        return head
+
     def detectCycle(self, head: ListNode) -> ListNode:
         return self.twoPointersCycleLen(head)
